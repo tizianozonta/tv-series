@@ -263,7 +263,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 10,
+  "episodes": 12,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
@@ -288,7 +288,7 @@ var series = [{
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 60,
+  "episodes": 61,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
