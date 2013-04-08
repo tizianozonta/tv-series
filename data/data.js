@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 21,
+  "episodes": 22,
   "episodeLength": 60,
   "stillWatching": 1
 },
@@ -220,7 +220,7 @@ var series = [{
 }, {
   "title": "Misfits",
   "imdb": "http://www.imdb.com/title/tt1548850/",
-  "episodes": "21",
+  "episodes": 22,
   "totalEpisodes": "29",
   "episodeLength": 45,
   "stillWatching": 1
@@ -270,7 +270,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 17,
+  "episodes": 18,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
