@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": 147,
+  "episodes": 148,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 204,
+  "episodes": 205,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 22,
+  "episodes": 23,
   "episodeLength": 60,
   "stillWatching": 1
 },
@@ -164,7 +164,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": "180",
+  "episodes": 181,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -270,7 +270,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 19,
+  "episodes": 20,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
