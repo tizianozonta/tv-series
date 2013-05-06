@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 132,
+  "episodes": 133,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 205,
+  "episodes": 206,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -164,7 +164,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 181,
+  "episodes": 182,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
