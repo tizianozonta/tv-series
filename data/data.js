@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": 148,
+  "episodes": 149,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -99,7 +99,13 @@ var series = [{
   "episodes": "21",
   "episodeLength": 55,
   "stillWatching": 0
-}, {
+},{
+  "title": "Da Vinci's Demons",
+  "imdb": "http://www.imdb.com/title/tt2094262/",
+  "episodes": 1,
+  "episodeLength": 60,
+  "stillWatching": 1
+},{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
   "episodes": "84",
@@ -132,7 +138,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 25,
+  "episodes": 26,
   "episodeLength": 60,
   "stillWatching": 1
 },
@@ -214,7 +220,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 112,
+  "episodes": 113,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -289,7 +295,7 @@ var series = [{
 }, {
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 221,
+  "episodes": 222,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
