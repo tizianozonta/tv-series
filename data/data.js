@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": 149,
+  "episodes": 150,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 133,
+  "episodes": 134,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -102,7 +102,7 @@ var series = [{
 },{
   "title": "Da Vinci's Demons",
   "imdb": "http://www.imdb.com/title/tt2094262/",
-  "episodes": 3,
+  "episodes": 4,
   "episodeLength": 60,
   "stillWatching": 1
 },{
@@ -114,7 +114,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 206,
+  "episodes": 207,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -170,7 +170,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 182,
+  "episodes": 183,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
