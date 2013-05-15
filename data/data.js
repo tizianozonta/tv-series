@@ -138,7 +138,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 26,
+  "episodes": 27,
   "episodeLength": 60,
   "stillWatching": 1
 },
@@ -170,7 +170,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 183,
+  "episodes": 184,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -295,7 +295,7 @@ var series = [{
 }, {
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 222,
+  "episodes": 223,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
