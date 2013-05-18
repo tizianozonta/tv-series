@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 22,
+  "episodes": 23,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 134,
+  "episodes": 135,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -145,7 +145,7 @@ var series = [{
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
-  "episodes": 1,
+  "episodes": 5,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
