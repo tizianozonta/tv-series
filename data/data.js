@@ -114,7 +114,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 207,
+  "episodes": 208,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -145,7 +145,7 @@ var series = [{
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
-  "episodes": 5,
+  "episodes": 8,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
